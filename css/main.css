@@ -1,0 +1,26 @@
+html {
+  background-color: #78d1bb;
+
+
+  }
+
+  blockquote {
+  font-family: 'Bevan', cursive;
+}
+
+h1, h2 {
+  font-family: 'Bevan', cursive;
+  color: #000000;
+  font-weight: normal;
+  font-size: 2rem;
+  line-height: 1;
+}
+
+ol { list-style-type: none;
+    padding: 0;
+  }
+a {
+  color: white;
+}
+a:hover {
+  color: blue;
