@@ -1,16 +1,19 @@
 html {
   background-color: #78d1bb;
+  font-family: arial;
+  font-size: 1rem;
 
 
   }
 
   blockquote {
-  font-family: 'Bevan', cursive;
+  padding: 1;
+  font-family: 'Lobster', cursive;
 }
 
 h1, h2 {
   font-family: 'Bevan', cursive;
-  color: #000000;
+  color: #3b6d61;
   font-weight: normal;
   font-size: 2rem;
   line-height: 1;
@@ -24,3 +27,13 @@ a {
 }
 a:hover {
   color: blue;
+
+}
+
+figcaption {
+
+  font-style: italic;
+  font-size: .75rem;
+  padding: 1;
+}
+html
