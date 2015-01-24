@@ -34,14 +34,25 @@ figcaption {
 
   font-style: italic;
   font-size: .75rem;
-  padding: 1;
+  padding: 2;
 }
 cite {
 
   font-size: .25rem;
   text-align: center;
   float: right;
-  line-length: 2;
+  line-height: 2;
 
 }
+p{
+  line-height: 1.5;
+}
 html
+
+ul{
+
+  list-style-type: lower-roman;
+}
+
+
+}
