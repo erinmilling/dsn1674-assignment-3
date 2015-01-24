@@ -2,8 +2,6 @@ html {
   background-color: #78d1bb;
   font-family: arial;
   font-size: 1rem;
-
-
   }
 
   blockquote {
@@ -22,6 +20,7 @@ h1, h2 {
 ol { list-style-type: none;
     padding: 0;
   }
+  
 a {
   color: white;
 }
@@ -47,12 +46,10 @@ cite {
 p{
   line-height: 1.5;
 }
-html
 
 ul{
 
   list-style-type: lower-roman;
-}
-
 
 }
+html
