@@ -36,4 +36,12 @@ figcaption {
   font-size: .75rem;
   padding: 1;
 }
+cite {
+
+  font-size: .25rem;
+  text-align: center;
+  float: right;
+  line-length: 2;
+
+}
 html
